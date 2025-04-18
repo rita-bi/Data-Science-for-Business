@@ -1,4 +1,6 @@
-**Data Science For Business Portfolio: Driving Growth through Customer Intelligence** (https://www.ritabini-analytics.com/)
+**Data Science For Business Portfolio: Driving Growth through Customer Intelligence** 
+
+(https://www.ritabini-analytics.com/)
 
 
 Welcome to my portfolio — a curated collection of end-to-end data science projects designed to solve real business challenges around customer growth, marketing effectiveness, and behavioural insights. 
