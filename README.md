@@ -33,7 +33,8 @@ Outcome: Data-led strategies to reduce attrition and nurture high-value relation
 
 
 
- ![image](https://github.com/user-attachments/assets/14b8348a-4366-4ba0-8446-21623b222b3b)
+![image](https://github.com/user-attachments/assets/0f36c116-7110-474b-a888-2eae005bad44)
+
 
 These projects focus on uncovering growth levers across the customer journey, with deep dives into:
 
