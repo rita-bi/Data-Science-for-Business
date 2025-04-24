@@ -1,12 +1,12 @@
-**Data Science For Business Portfolio: Driving Growth through Customer Intelligence** 
+**Data Science For Business Portfolio: Driving Growth through Data Intelligence** 
 
 (https://www.ritabini-analytics.com/)
 
 
-Welcome to my portfolio — a curated collection of end-to-end data science projects designed to solve real business challenges around customer growth, marketing effectiveness, and behavioural insights. 
+Welcome to my portfolio — a curated collection of end-to-end data science projects designed to solve real business challenges around growth, marketing effectiveness, and behavioural insights. 
 Each project combines advanced analytics with practical business thinking, aiming to unlock value from data and guide smarter decision-making.
 
-🔍 **What You'll Find Here**: this portfolio centres on three key pillars of customer-focused analytics:
+🔍 **What You'll Find Here**: this portfolio centres on three key pillars of growth-focused analytics:
 
 ![image](https://github.com/user-attachments/assets/b998ea8a-6f45-466f-bf66-c7a0bb2711fa)  
 
@@ -25,7 +25,7 @@ Outcome: Better audience segmentation, tailored experiences, and improved ROI on
 Customer relationships don’t end at acquisition. These projects help uncover what keeps users engaged and what drives long-term value:
 
 - Analysing key engagement metrics and behavioural triggers linked to retention
-- Modelling churn risk and customer lifetime value
+- Modeling data to extract product trends and preferences and how these link to engagement
 - Providing actionable recommendations to boost retention, satisfaction, and loyalty
 
 
@@ -47,6 +47,6 @@ Outcome: Clear visibility into growth opportunities, enabling teams to test, pri
 My work leverages Python, SQL, machine learning libraries (scikit-learn, XGBoost, Keras), and visualisation tools (Matplotlib, Seaborn, Plotly), alongside marketing-focused metrics and experimental design (A/B testing, uplift modelling, cohort analysis).
 
 💡 **Why It Matters**
-In today’s data-rich environment, businesses need more than dashboards—they need clear, forward-looking answers. This portfolio is built to demonstrate how data science can bridge the gap between raw information and smart commercial decisions.
+In today’s data-rich environment, businesses need more than dashboards, they need clear, forward-looking answers. This portfolio is built to demonstrate how data science can bridge the gap between raw information and smart commercial decisions.
 
-Whether it's optimising campaign targeting, boosting retention, or mapping customer journeys, each project tells a story: how data can be turned into strategy.
+Whether it's optimising campaign targeting, boosting retention, understanding sentiments, or mapping customers journeys, each project tells a story: how data can be turned into strategy.
