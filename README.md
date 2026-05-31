@@ -47,7 +47,7 @@ These projects focus on uncovering growth levers across the customer journey, wi
 Outcome: Clear visibility into growth opportunities, enabling teams to test, prioritise, and scale the most impactful actions.
 
 ⚙️ **Tools & Techniques**
-My work leverages Python, SQL, machine learning libraries (scikit-learn, XGBoost, Keras),  machine learning operations and pipelines design, and visualisation tools (Matplotlib, Seaborn, Plotly), alongside marketing-focused metrics and experimental design (A/B testing, uplift modelling, cohort analysis).
+My work leverages Python, SQL, machine learning libraries (scikit-learn, XGBoost, Keras),  machine learning operations and pipelines design, visualisation tools (Matplotlib, Seaborn, Plotly), alongside business-focused metrics and experimental design (A/B testing, uplift modelling, cohort analysis).
 
 💡 **Why It Matters**
 In today’s data-rich environment, businesses need more than dashboards, they need clear, forward-looking answers. This portfolio is built to demonstrate how data science can bridge the gap between raw information and smart commercial decisions.
