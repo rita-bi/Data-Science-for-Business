@@ -3,14 +3,14 @@
 (https://www.ritabini-analytics.com/)
 
 
-Welcome to my portfolio — a curated collection of end-to-end data science projects designed to solve real business challenges around growth, marketing effectiveness, and behavioural insights. 
-Each project combines advanced analytics with practical business thinking, aiming to unlock value from data and guide smarter decision-making.
+Welcome to my portfolio, a curated collection of end-to-end data science projects designed to solve real business challenges around growth, marketing effectiveness, and behavioural insights. 
+Each project combines advanced data modeling with practical business thinking, aiming to unlock value from data and guide smarter decision-making.
 
 🔍 **What You'll Find Here**: this portfolio centres on three key pillars of growth-focused analytics:
 
 ![image](https://github.com/user-attachments/assets/b998ea8a-6f45-466f-bf66-c7a0bb2711fa)  
 
-Understanding who your customers are — and how they behave — is the foundation of effective marketing. These projects explore:
+Understanding who your customers are, and how they behave, is the foundation of effective marketing. These projects explore:
 
 - Identifying distinct customer groups based on behavioural patterns and purchasing signals
 - Predicting customer actions using classification and regression models
@@ -38,16 +38,17 @@ Outcome: Data-led strategies to reduce attrition and nurture high-value relation
 
 These projects focus on uncovering growth levers across the customer journey, with deep dives into:
 
-- Analysing conversion funnels and user flow drop-offs
+- Modeling conversion funnels and user flow drop-offs
+- Optimising Marketing Channels investments
 - Forecasting growth trends and consumer demand using time series models
 - Simulating business scenarios to support strategic planning and marketing investment decisions
 
 Outcome: Clear visibility into growth opportunities, enabling teams to test, prioritise, and scale the most impactful actions.
 
 ⚙️ **Tools & Techniques**
-My work leverages Python, SQL, machine learning libraries (scikit-learn, XGBoost, Keras), and visualisation tools (Matplotlib, Seaborn, Plotly), alongside marketing-focused metrics and experimental design (A/B testing, uplift modelling, cohort analysis).
+My work leverages Python, SQL, machine learning libraries (scikit-learn, XGBoost, Keras),  machine learning operations and pipelines design, and visualisation tools (Matplotlib, Seaborn, Plotly), alongside marketing-focused metrics and experimental design (A/B testing, uplift modelling, cohort analysis).
 
 💡 **Why It Matters**
 In today’s data-rich environment, businesses need more than dashboards, they need clear, forward-looking answers. This portfolio is built to demonstrate how data science can bridge the gap between raw information and smart commercial decisions.
 
-Whether it's optimising campaign targeting, boosting retention, understanding sentiments, or mapping customers journeys, each project tells a story: how data can be turned into strategy.
+Whether it's optimising campaign targeting, boosting retention, understanding sentiments, or optimising marketing investment, each project tells a story: how data can be turned into strategy.
