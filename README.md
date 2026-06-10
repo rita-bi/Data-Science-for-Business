@@ -1,6 +1,6 @@
 **Data Science and Machine Learning For Business Portfolio: Driving Growth through Data Intelligence** 
 
-(https://www.ritabini-analytics.com/)
+(https://www.Ritabini.com/)
 
 
 Welcome to my portfolio, a collection of end-to-end data science projects designed to address real business challenges across growth, marketing effectiveness, and behavioural insights.
